@@ -1,0 +1,119 @@
+{
+  "business_name" : "Narayana Water Services",
+  "services" : [
+    {
+      "service_name" : "Water Wash",
+      "items" : [
+        {
+          "name" : "Car",
+          "img" : "https://raw.githubusercontent.com/nsiva7/Sample/main/images/Car_01.jpg",
+          "title" : "Car Water Wash",
+          "duration" : "30 minutes",
+          "description" : "The car is neatly cleaned and polished.",
+          "price" : "Rs.000"
+        },
+        {
+          "name" : "Van",
+          "img" : "https://raw.githubusercontent.com/nsiva7/Sample/main/images/Van_01.jpg",
+          "title" : "Van Water Wash",
+          "duration" : "30 minutes",
+          "description" : "The van is well cleaned and polished.",
+          "price" : "Rs.000"
+        },
+        {
+          "name" : "Tractor",
+          "img" : "https://raw.githubusercontent.com/nsiva7/Sample/main/images/Tractor_01.jpg",
+          "title" : "Tractor Water Wash",
+          "duration" : "30 minutes",
+          "description" : "The tractor is well cleaned and polished.",
+          "price" : "Rs.000"
+        },
+        {
+          "name" : "JCB",
+          "img" : "https://raw.githubusercontent.com/nsiva7/Sample/main/images/JCB_01.jpg",
+          "title" : "JCB Water Wash",
+          "duration" : "30 minutes",
+          "description" : "The JCB is thoroughly cleaned and polished.",
+          "price" : "Rs.000"
+        },
+        {
+          "name" : "Bike",
+          "img" : "https://raw.githubusercontent.com/nsiva7/Sample/main/images/MotorCycle_01.jpg",
+          "title" : "Bike Water Wash",
+          "duration" : "30 minutes",
+          "description" : "The bike is neatly cleaned and polished.",
+          "price" : "Rs.000"
+        },
+        {
+          "name" : "Auto",
+          "img" : "https://raw.githubusercontent.com/nsiva7/Sample/main/images/Auto_01.jpg",
+          "title" : "Auto Water Wash",
+          "duration" : "30 minutes",
+          "description" : "The auto is thoroughly cleaned and polished.",
+          "price" : "Rs.000"
+        }
+      ]
+    },
+    {
+      "service_name" : "Hirers",
+      "items" : [
+        {
+          "name" : "Savakalu",
+          "img" : "https://raw.githubusercontent.com/nsiva7/Sample/main/images/Sawakalu_01.jpg",
+          "title" : "Savakalu",
+          "duration" : "1 Day",
+          "description" : "Savakalu are available for rent.",
+          "price" : "Rs.000"
+        },
+        {
+          "name" : "Ladders",
+          "img" : "https://raw.githubusercontent.com/nsiva7/Sample/main/images/Ladders_01.jpg",
+          "title" : "Sawakalu",
+          "duration" : "1 Day",
+          "description" : "Ladders are available for rent.",
+          "price" : "Rs.000"
+        }
+      ]
+    },
+    {
+      "service_name" : "Vehicles are available for rent",
+      "items" : [
+        {
+          "name" : "Car",
+          "img" : "https://raw.githubusercontent.com/nsiva7/Sample/main/images/Car_01.jpg",
+          "title" : "Car",
+          "duration" : "1 Day",
+          "description" : "A car can be rented.",
+          "price" : "Rs.000"
+        },
+        {
+          "name" : "Van",
+          "img" : "https://raw.githubusercontent.com/nsiva7/Sample/main/images/Van_01.jpg",
+          "title" : "Van",
+          "duration" : "1 Day",
+          "description" : "A van can be rented.",
+          "price" : "Rs.000"
+        },
+        {
+          "name" : "Lorry",
+          "img" : "https://raw.githubusercontent.com/nsiva7/Sample/main/images/Lorry_01.jpg",
+          "title" : "Lorry",
+          "duration" : "1 Day",
+          "description" : "A Lorry can be rented.",
+          "price" : "Rs.000"
+        }
+      ]
+    }
+  ],
+  "carousel" : [
+    "https://raw.githubusercontent.com/nsiva7/Sample/main/images/Car_01.jpg",
+    "https://raw.githubusercontent.com/nsiva7/Sample/main/images/Auto_01.jpg",
+    "https://raw.githubusercontent.com/nsiva7/Sample/main/images/JCB_01.jpg",
+    "https://raw.githubusercontent.com/nsiva7/Sample/main/images/Ladders_01.jpg",
+    "https://raw.githubusercontent.com/nsiva7/Sample/main/images/Lorry_01.jpg",
+    "https://raw.githubusercontent.com/nsiva7/Sample/main/images/MotorCycle_01.jpg",
+    "https://raw.githubusercontent.com/nsiva7/Sample/main/images/Sawakalu_01.jpg",
+    "https://raw.githubusercontent.com/nsiva7/Sample/main/images/Tractor_01.jpg",
+    "https://raw.githubusercontent.com/nsiva7/Sample/main/images/Van_01.jpg"
+  ]
+}

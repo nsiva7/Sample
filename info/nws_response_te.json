@@ -1,0 +1,119 @@
+{
+  "business_name" : "నారాయణ వాటర్ సర్వీసెస్",
+  "services" : [
+    {
+      "service_name" : "వాటర్ వాష్",
+      "items" : [
+        {
+          "name" : "కారు",
+          "img" : "https://raw.githubusercontent.com/nsiva7/Sample/main/images/Car_01.jpg",
+          "title" : "కార్ వాటర్ వాష్",
+          "duration" : "30 నిముషాలు",
+          "description" : "కారు నీట్ గా క్లీన్ చేసి పాలిష్ చేయబడును.",
+          "price" : "రూ.000"
+        },
+        {
+          "name" : "వ్యాన్",
+          "img" : "https://raw.githubusercontent.com/nsiva7/Sample/main/images/Van_01.jpg",
+          "title" : "వాన్ వాటర్ వాష్",
+          "duration" : "30 నిముషాలు",
+          "description" : "వ్యాన్ చక్కగా శుభ్రం చేసి పాలిష్ చేయబడును.",
+          "price" : "రూ.000"
+        },
+        {
+          "name" : "ట్రాక్టర్",
+          "img" : "https://raw.githubusercontent.com/nsiva7/Sample/main/images/Tractor_01.jpg",
+          "title" : "ట్రాక్టర్ వాటర్ వాష్",
+          "duration" : "30 నిముషాలు",
+          "description" : "ట్రాక్టర్ చక్కగా శుభ్రం చేసి పాలిష్ చేయబడును.",
+          "price" : "రూ.000"
+        },
+        {
+          "name" : "జేసీబీ",
+          "img" : "https://raw.githubusercontent.com/nsiva7/Sample/main/images/JCB_01.jpg",
+          "title" : "జేసీబీ వాటర్ వాష్",
+          "duration" : "30 నిముషాలు",
+          "description" : "జేసీబీని నీట్‌గా శుభ్రం చేసి పాలిష్‌ చేయబడును.",
+          "price" : "రూ.000"
+        },
+        {
+          "name" : "బైక్",
+          "img" : "https://raw.githubusercontent.com/nsiva7/Sample/main/images/MotorCycle_01.jpg",
+          "title" : "బైక్ వాటర్ వాష్",
+          "duration" : "30 నిముషాలు",
+          "description" : "బైక్ నీట్ గా క్లీన్ చేసి పాలిష్ చేయబడును.",
+          "price" : "రూ.000"
+        },
+        {
+          "name" : "ఆటో",
+          "img" : "https://raw.githubusercontent.com/nsiva7/Sample/main/images/Auto_01.jpg",
+          "title" : "ఆటో వాటర్ వాష్",
+          "duration" : "30 నిముషాలు",
+          "description" : "ఆటోను చక్కగా శుభ్రం చేసి పాలిష్ చేయబడును.",
+          "price" : "రూ.000"
+        }
+      ]
+    },
+    {
+      "service_name" : "హైరర్స్",
+      "items" : [
+        {
+          "name" : "సవకలు",
+          "img" : "https://raw.githubusercontent.com/nsiva7/Sample/main/images/Sawakalu_01.jpg",
+          "title" : "సవకలు ",
+          "duration" : "1 రోజు",
+          "description" : "సవకలు అద్దెకు ఇవ్వబడును.",
+          "price" : "రూ.000"
+        },
+        {
+          "name" : "నిచ్చెనలు",
+          "img" : "https://raw.githubusercontent.com/nsiva7/Sample/main/images/Ladders_01.jpg",
+          "title" : "నిచ్చెనలు",
+          "duration" : "1 రోజు",
+          "description" : "నిచ్చెనలు అద్దెకు ఇవ్వబడును.",
+          "price" : "రూ.000"
+        }
+      ]
+    },
+    {
+      "service_name" : "వాహనాలు అద్దెకు ఇవ్వబడును",
+      "items" : [
+        {
+          "name" : "కారు",
+          "img" : "https://raw.githubusercontent.com/nsiva7/Sample/main/images/Car_01.jpg",
+          "title" : "కారు ",
+          "duration" : "1 రోజు",
+          "descripti" : "కారు అద్దెకు ఇవ్వబడును.",
+          "price" : "రూ.000"
+        },
+        {
+          "name" : "వ్యాన్",
+          "img" : "https://raw.githubusercontent.com/nsiva7/Sample/main/images/Van_01.jpg",
+          "title" : "వ్యాన్",
+          "duration" : "1 రోజు",
+          "description" : "వ్యాన్ అద్దెకు ఇవ్వబడును.",
+          "price" : "రూ.000"
+        },
+        {
+          "name" : "లారీ",
+          "img" : "https://raw.githubusercontent.com/nsiva7/Sample/main/images/Lorry_01.jpg",
+          "title" : "లారీ",
+          "duration" : "1 రోజు",
+          "description" : "లారీ అద్దెకు ఇవ్వబడును.",
+          "price" : "రూ.000"
+        }
+      ]
+    }
+  ],
+  "carousel" : [
+    "https://raw.githubusercontent.com/nsiva7/Sample/main/images/Car_01.jpg",
+    "https://raw.githubusercontent.com/nsiva7/Sample/main/images/Auto_01.jpg",
+    "https://raw.githubusercontent.com/nsiva7/Sample/main/images/JCB_01.jpg",
+    "https://raw.githubusercontent.com/nsiva7/Sample/main/images/Ladders_01.jpg",
+    "https://raw.githubusercontent.com/nsiva7/Sample/main/images/Lorry_01.jpg",
+    "https://raw.githubusercontent.com/nsiva7/Sample/main/images/MotorCycle_01.jpg",
+    "https://raw.githubusercontent.com/nsiva7/Sample/main/images/Sawakalu_01.jpg",
+    "https://raw.githubusercontent.com/nsiva7/Sample/main/images/Tractor_01.jpg",
+    "https://raw.githubusercontent.com/nsiva7/Sample/main/images/Van_01.jpg"
+  ]
+}
