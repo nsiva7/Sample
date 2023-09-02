@@ -10,7 +10,8 @@
           "title" : "Car Water Wash",
           "duration" : "30 minutes",
           "description" : "The car is neatly cleaned and polished.",
-          "price" : "Rs.000"
+          "price" : "Rs.000",
+          "mobile" : "+919666976229"
         },
         {
           "name" : "Van",
@@ -18,7 +19,8 @@
           "title" : "Van Water Wash",
           "duration" : "30 minutes",
           "description" : "The van is well cleaned and polished.",
-          "price" : "Rs.000"
+          "price" : "Rs.000",
+          "mobile" : "+919666976229"
         },
         {
           "name" : "Tractor",
@@ -26,7 +28,8 @@
           "title" : "Tractor Water Wash",
           "duration" : "30 minutes",
           "description" : "The tractor is well cleaned and polished.",
-          "price" : "Rs.000"
+          "price" : "Rs.000",
+          "mobile" : "+919666976229"
         },
         {
           "name" : "JCB",
@@ -34,7 +37,8 @@
           "title" : "JCB Water Wash",
           "duration" : "30 minutes",
           "description" : "The JCB is thoroughly cleaned and polished.",
-          "price" : "Rs.000"
+          "price" : "Rs.000",
+          "mobile" : "+919666976229"
         },
         {
           "name" : "Bike",
@@ -42,7 +46,8 @@
           "title" : "Bike Water Wash",
           "duration" : "30 minutes",
           "description" : "The bike is neatly cleaned and polished.",
-          "price" : "Rs.000"
+          "price" : "Rs.000",
+          "mobile" : "+919666976229"
         },
         {
           "name" : "Auto",
@@ -50,7 +55,8 @@
           "title" : "Auto Water Wash",
           "duration" : "30 minutes",
           "description" : "The auto is thoroughly cleaned and polished.",
-          "price" : "Rs.000"
+          "price" : "Rs.000",
+          "mobile" : "+919666976229"
         }
       ]
     },
@@ -63,7 +69,8 @@
           "title" : "Savakalu",
           "duration" : "1 Day",
           "description" : "Savakalu are available for rent.",
-          "price" : "Rs.000"
+          "price" : "Rs.000",
+          "mobile" : "+919666976229"
         },
         {
           "name" : "Ladders",
@@ -71,7 +78,8 @@
           "title" : "Sawakalu",
           "duration" : "1 Day",
           "description" : "Ladders are available for rent.",
-          "price" : "Rs.000"
+          "price" : "Rs.000",
+          "mobile" : "+919666976229"
         }
       ]
     },
@@ -84,7 +92,8 @@
           "title" : "Car",
           "duration" : "1 Day",
           "description" : "A car can be rented.",
-          "price" : "Rs.000"
+          "price" : "Rs.000",
+          "mobile" : "+919666976229"
         },
         {
           "name" : "Van",
@@ -92,7 +101,8 @@
           "title" : "Van",
           "duration" : "1 Day",
           "description" : "A van can be rented.",
-          "price" : "Rs.000"
+          "price" : "Rs.000",
+          "mobile" : "+919666976229"
         },
         {
           "name" : "Lorry",
@@ -100,7 +110,8 @@
           "title" : "Lorry",
           "duration" : "1 Day",
           "description" : "A Lorry can be rented.",
-          "price" : "Rs.000"
+          "price" : "Rs.000",
+          "mobile" : "+919666976229"
         }
       ]
     }
